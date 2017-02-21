@@ -27,12 +27,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GoogleChrome/airhorn.git"
+    "url": "git@github.com:mmayet/sotb-pwapp.git"
   },
   "author": "Mudassir Mayet",
   "license": "Apache 2",
   "bugs": {
-    "url": "https://github.com/GoogleChrome/airhorn/issues"
+    "url": "https://github.com/mmayet/sotb-pwapp.git"
   },
-  "homepage": "https://github.com/GoogleChrome/airhorn#readme"
+  "homepage": "http://servantsofthebeloved.com/"
 }
